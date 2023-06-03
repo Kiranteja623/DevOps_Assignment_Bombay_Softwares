@@ -88,6 +88,12 @@ sudo ./aws/install
   ![Preview](amplify33.png)
   ![Preview](amplify34.png)
   ![Preview](amplify35.png)
-  
+  ![Preview](amplify36.png)
+  ![Preview](amplify37.png)
+  ![Preview](amplify38.png)
+  ![Preview](amplify39.png)
+  ![Preview](amplify40.png)
+  ![Preview](amplify41.png)
+  [referhere](https://docs.amplify.aws/start/getting-started/installation/q/integration/next/) for creating backend using amplify cli.
 * When the deployment is completed the output should be
   ![Preview](amplify16.png)
